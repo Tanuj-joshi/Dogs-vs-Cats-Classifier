@@ -78,7 +78,7 @@ To run this project, you will need the following dependencies:
 3. Above script will also save tensorboard log files in logs/ directory which can be visualized using:
 
    ```bash
-   tensorboard --logdir=path_to_your_logs_file
+   tensorboard --logdir=logs/
    ```
 
 ### Evaluation
