@@ -45,7 +45,7 @@ To run this project, you will need the following dependencies:
 
    ```bash
    git clone https://github.com/Tanuj-joshi/Dogs-vs-Cats-Classifier.git 
-   cd Cats-vs-Dogs
+   cd Dogs-vs-Cats-Classifier
    ```
 
 2. Create a virtual environment and activate it::
